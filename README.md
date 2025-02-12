@@ -12,12 +12,13 @@ Internet is an all accessible system that has every piece of information from ar
 
 
 # When did it get popular?
-The internet has rise and gain its popularity after being officialy released to the public around the 80's. Since then, everyone has been obsessed in using the internet because users can learn, read, watch, and entertain themselves by just searching for what they desire. 
+The Internet has rise and gain its popularity after being officialy released to the public around the 80's. Since then, everyone has been obsessed in using the internet because users can learn, read, watch, and entertain themselves by just searching for what they desire. 
 
 ![image](https://github.com/user-attachments/assets/917b6e90-da74-4982-aaa5-9106d9c6095e)
 
 
-# 
+# Present time
+The Internet now is still being used and advancing into something better. For example, artificial intelligence. AI is its own sentient Internet and can provide almost every information the user wants. 
 
 
 # Source of Information:
