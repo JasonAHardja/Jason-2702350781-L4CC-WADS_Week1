@@ -1,1 +1,11 @@
-# Jason-2702350781-L4CC-WADS_Week1
+# Who am I?
+
+# What am I doing?
+
+# Where am I from?
+
+# When do I graduate?
+
+# Why do I learn this?
+
+# How will I achieve my goals?
