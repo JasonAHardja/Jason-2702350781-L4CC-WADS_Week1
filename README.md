@@ -1,11 +1,22 @@
-# Who am I?
+# Writer
+Jason Hardjawidjaja
+2702350781
+L4CC
+BINUS UNIVERSITY INTERNATIONAL
 
-# What am I doing?
+# Introduction to the Internet
+Definition:
+Internet is an all accessible system that has every piece of information from around the world that people can search and look for.
 
-# Where am I from?
+![image](https://github.com/user-attachments/assets/ade6e495-6cb6-47c5-8106-2e7912a2e5b1)
 
-# When do I graduate?
 
-# Why do I learn this?
+# 
 
-# How will I achieve my goals?
+
+# 
+
+
+# Source of Information:
+https://www.britannica.com/technology/Internet
+
